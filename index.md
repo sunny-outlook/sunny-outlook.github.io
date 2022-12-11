@@ -1,5 +1,9 @@
 ---
-layout: default
 title: Sunny Outlook
+layout: home
+description: Homeschool Enrichment Provider in Fort Collins, Colorado. Helping families raise confident, compassionate and curious kids
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+
+# Sunny Outlook For Kids
+
+Homeschool Enrichment Provider in Fort Collins, Colorado. Helping families raise confident, compassionate and curious kids
