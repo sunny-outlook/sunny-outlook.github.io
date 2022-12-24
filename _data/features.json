@@ -1,29 +1,11 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": {
-      "url": "#",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Love of Literature"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": {
-      "url": "#",
-      "width": 80,
-      "height": 80
-    }
+    "title": "\"Just Right Challenge\""
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "#",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Ourdoor Play"
   }
 ]
